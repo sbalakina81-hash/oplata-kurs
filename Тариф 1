@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Оплата доступа</title>
+</head>
+<body>
+  <h1>Оплата доступа к тарифу «Базовые курсы»</h1>
+  <p>После оплаты доступ придёт на указанную почту.</p>
+
+  <!-- Ниже вставляем виджет Robokassa -->
+  
+  <script type="text/javascript" src="https://auth.robokassa.ru/Merchant/PaymentForm/FormSS.js?EncodedInvoiceId=QTctMHxW_EGKTyqUB9-2Ew"></script>
+
+</body>
+</html>
